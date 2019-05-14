@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://beehemeeyu.friselltransport.se/sitemap.xml
